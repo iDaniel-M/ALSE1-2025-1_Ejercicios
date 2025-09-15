@@ -29,7 +29,7 @@ int main() {
     }
     else{
         if (num1 == num2){
-            cout << "Los numeros ingresados son iguales";
+            cout << "Los numeros son iguales";
         }
         else{
             cout << "Los numeros ingresados son negativos";
