@@ -16,5 +16,4 @@ int main() {
     //Calculo monto final
     double A = P * pow(1 + (r / n), n * t);
     cout << "El monto final (A) del interes compuesto es: " << A << endl;
-    return 0;
 }
