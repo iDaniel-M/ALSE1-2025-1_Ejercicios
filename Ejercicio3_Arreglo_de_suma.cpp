@@ -6,5 +6,4 @@ int main() {
     suma += arreglo[i];
 }
 std::cout<<"La suma de los elementos del arreglo es: "<<suma<<std::endl;
-return 0;
 }
